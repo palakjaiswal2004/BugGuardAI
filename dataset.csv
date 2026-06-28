@@ -1,0 +1,9 @@
+LinesOfCode,Complexity,PreviousBugs,TestingCoverage,DeveloperExperience,BugStatus
+500,8,5,60,2,1
+300,4,1,85,5,0
+700,9,6,50,1,1
+450,5,2,75,4,0
+800,10,8,40,1,1
+350,3,0,90,6,0
+600,7,4,65,2,1
+250,2,1,95,7,0
